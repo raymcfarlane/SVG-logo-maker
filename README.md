@@ -27,4 +27,5 @@ To run unit testing, open the terminal, and use the command npm run test.
 
 Have additional questions? Click the links below to reach me through my GitHub account or Email address.
 [Link to Github](https://github.com/raymcfarlane)
+
 <a href="mailto:raynicamcfarlane@gmail.com">raynicamcfarlane@gmail.com</a>

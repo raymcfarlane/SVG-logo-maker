@@ -13,7 +13,10 @@
 This application was built as a way to allow web developers to create simple logos for their clients and projects.
 
 ## Screenshots
-!(Terminal.png)
+
+![Circle](https://user-images.githubusercontent.com/122712555/234138323-9896021b-5a9d-41af-a006-a61389e15be8.PNG)
+![Triangle](https://user-images.githubusercontent.com/122712555/234138332-3eb95cef-9029-49c7-a451-6b66c93a6494.PNG)
+![Terminal](https://user-images.githubusercontent.com/122712555/234138339-cf75a0d9-f86e-482f-9e1b-833470f040f5.png)
 
 ## Installation
 Download node.js to your system. You can clone my repository. Create your index.js file and launch the terminal. Typem nmp i into your terminal to install. 

@@ -1,5 +1,5 @@
 # SVG logo maker
- 
+Watch a [video](https://drive.google.com/file/d/1Lh6xcBfEkpQ8VKFJv33WspKB0XZr34xz/view)
 ## Table of Contents:
   - [Description](#description)
   - [Screenshots](#screenshots)

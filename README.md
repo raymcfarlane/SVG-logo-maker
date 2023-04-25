@@ -1,6 +1,6 @@
 # SVG logo maker
 
-Watch [video] demonstration here (https://drive.google.com/file/d/1Lh6xcBfEkpQ8VKFJv33WspKB0XZr34xz/view)
+Watch demostration [video](https://drive.google.com/file/d/1Lh6xcBfEkpQ8VKFJv33WspKB0XZr34xz/view)
 
 ## Table of Contents:
   - [Description](#description)

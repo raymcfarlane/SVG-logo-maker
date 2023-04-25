@@ -1,5 +1,6 @@
 # SVG logo maker
-(https://github.com/raymcfarlane/SVG-logo-maker/blob/main/assets/video/SVG%20logo%20Maker%20Apr%2024%2C%202023%207_50%20PM.webm)
+
+Watch [video] demonstration here (https://drive.google.com/file/d/1Lh6xcBfEkpQ8VKFJv33WspKB0XZr34xz/view)
 
 ## Table of Contents:
   - [Description](#description)
